@@ -2,6 +2,12 @@
 
 This JavaScript function calculates an affordable property value based on the Gross Debt Service (GDS) ratio target. It helps determine how much property one can afford based on various financial parameters.
 
+## Installation
+
+```bash
+npm install mortgage_affordability_calculator_ca
+```
+
 ## Usage
 
 ```javascript
